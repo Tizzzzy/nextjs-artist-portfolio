@@ -1,6 +1,5 @@
 import { Layout } from "../components/Layout";
 import { Navbar } from "../components/Navbar";
-import { Bio } from "../components/Bio";
 import { Footer } from "../components/Footer";
 
 import { motion } from "framer-motion";
@@ -17,7 +16,6 @@ export default function Home() {
       <motion.div layout>
         <Layout>
           <Navbar />
-          <Bio />
           <Footer />
         </Layout>
       </motion.div>

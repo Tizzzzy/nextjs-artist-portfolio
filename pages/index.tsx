@@ -21,7 +21,7 @@ export default function Home() {
         <Layout>
           <Navbar />
           <Hero />
-          <Showcase limit={true} />
+          <Showcase limit={false} />
           <Contact />
           <Footer />
         </Layout>

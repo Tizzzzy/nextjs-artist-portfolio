@@ -10,7 +10,7 @@ export const Contact: React.SFC = () => {
       <Fade>
         <section
           className="py-8 col-span-10 col-start-2 col-end-12 bg-yellow-500 grid grid-cols-1 md:grid-cols-2 gap-4 px-4"
-          style={{ backgroundColor: "#fcd5ce" }}
+          style={{ backgroundColor: "black" }}
         >
           <div className="text-center">
             <h1 className="text-4xl font-light my-8 text-gray-700">Contact</h1>
