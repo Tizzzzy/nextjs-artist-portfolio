@@ -1,7 +1,7 @@
 export const data = {
   name: "TZ",
   job: "Modern/Contemporary Artist",
-  email: "superjackshu@gmail.com",
+  email: "l74747350@gmail.com",
   instagram_link: "https://www.instagram.com/__dongshu__/",
   // facebook_link: "https://www.facebook.com/satvik.virmani.9",
   aboutme_para1:
